@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP,WordPress and Advanced Javascript**
 
-- 💬 Ask me about **react,MySQL,Frontend Development**
+- 💬 Ask me about **React,MySQL,Frontend Development**
 
 - 📫 How to reach me **dhyeydesai512@gmail.com**
 
