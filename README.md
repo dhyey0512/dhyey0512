@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyey0512" alt="dhyey0512" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Chat App Using PHP,MySQL and Javascript**
+- 🔭 I’m currently working on **LLM generated Trip Planner Web Application with Weather based checklist with Tech stack of Reactjs + Vite , Firebase and  Typescript**
 
-- 🌱 I’m currently learning **PHP,WordPress and Advanced Javascript**
+- 🌱 I’m currently learning **Jenkins,AWS EC2, Docker and Kubernetes**
 
-- 💬 Ask me about **React,MySQL,Frontend Development**
+- 💬 Ask me about **React,Flutter,Firebase,Frontend Development**
 
 - 📫 How to reach me **dhyeydesai512@gmail.com**
 
